@@ -1,6 +1,6 @@
 # Streamlit Hello Demos
 
-[deployed in Streamlit Cloud](https://yyzeng-hello.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yyzeng-hello.streamlit.app)
 
 1. 📈_Plotting_Demo
 2. 🌍_Mapping_Demo
